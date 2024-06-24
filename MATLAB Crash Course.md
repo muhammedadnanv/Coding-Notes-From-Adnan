@@ -1,8 +1,8 @@
 # MATLAB Crash Course
 
-Author: methylDragon  
+Author: Muhammed Adnan
 Contains a syntax reference for MATLAB!  
-I'll be adapting it from the ever amazing Derek Banas: https://www.youtube.com/watch?v=NSSTkkKRabI
+I'll be adapting it from the ever amazing Derek Banas: https://www.youtube.com/channel/UCAUXqJdIuDiQXD5U2hS_IlA
 
 ------
 
