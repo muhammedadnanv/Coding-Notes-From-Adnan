@@ -1,3 +1,5 @@
+https://i.ibb.co/7YkJCr8/Whats-App-Image-2024-06-25-at-11-33-20.jpg
+
 # Front End Common Problems
 
 Notes for common front-end / full-stack problems in interviews, covering:
